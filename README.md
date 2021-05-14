@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @TheGoodSirRoach. I'm addmitidly a noob with programing related things. This does not mean i am new to the interwebz. I am just fine with following the rules and enjoying my bann.
+- 👀 I’m interested in all things security. My value for privacy is something that extends beyond the screen and transitions into my daily life. 
+- 🌱 I’m currently learning basic the basics and I mean basic. I have a little over a year playing with Termux in my spare time. I began using Lunix about a month ago. I set myself up a lan that exist off the house lan. I have been trying to learn the basics of PC my system while in the process of all this. I have been working to learn what I can about monitoring my network. I am working toward incorparating a server into the network. I also think the really like the idea of a VNC that I could keep with me so that I could sit have access to my network anywher. While I feel this goes against the privacy value the existance of Whonix tells me I'm probably wrong. Either way, at which point I actually plan to begin with a few studies I found on intelligence gathering,vulnerability analysis, and digital forensics. I also have been working with Androids. Partally because they do play a role inc security but mostly because I can get them almost free if not fee using old ones with better documentation. oh, if you didn't get it already, I'm pretty big on the ideas of open source freeware.
+- 💞️ I’m looking to collaborate on...at this point im really not sure I am up to doing a collab. Unless your idea of a collab is holding my hand as I stumble thru thru endless hours of reading documentation trying to troubleshoot a problem. In which case I'm always down to learn something.
+- 📫 How to reach me ... TheGoodSirRoachSwarm@gmail.com   or   roachswarm@protonmail.com 
+
+<!---
+TheGoodSirRoach/TheGoodSirRoach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
